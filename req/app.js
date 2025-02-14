@@ -7,6 +7,7 @@ const port = process.env.PORT || 5000
 app.get('/', (req, res) => {
     res.send('This is a test')
 })
+
 app.get('/login', (req, res) => {
     res.send('Login Form')
 })
