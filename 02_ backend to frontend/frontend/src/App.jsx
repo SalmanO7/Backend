@@ -2,6 +2,7 @@ import React from 'react'
 import CardData from './Components/CardData'
 import "./App.css"
 
+
 const App = () => {
   return (
     <div className='text-center'>
